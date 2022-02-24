@@ -7,3 +7,5 @@ Changes not staged for commit:
 	modified:   school
 
 no changes added to commit (use "git add" and/or "git commit -a")
+#!/bin/bash
+echo "School"

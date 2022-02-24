@@ -1,3 +1,2 @@
-echo "school"
-#!/bin/bash
-echo "ALX"
+[main ff89d35] #!/bin/bash echo "ALX"
+ 2 files changed, 11 insertions(+), 1 deletion(-)
